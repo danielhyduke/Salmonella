@@ -68586,7 +68586,7 @@
       <reaction id="R_P5CD" name="1 pyrroline 5 carboxylate dehydrogenase" reversible="false">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE_ASSOCIATION: STM1124</p>
+            <p>GENE_ASSOCIATION: s0001</p>
             <p>SUBSYSTEM: Arginine and Proline Metabolism</p>
           </html>
         </notes>
@@ -73618,7 +73618,7 @@
       <reaction id="R_PROD2" name="Proline dehydrogenase" reversible="false">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE_ASSOCIATION: STM1124</p>
+            <p>GENE_ASSOCIATION: s0001</p>
             <p>SUBSYSTEM: Arginine and Proline Metabolism</p>
           </html>
         </notes>
